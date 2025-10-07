@@ -34,8 +34,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="50dp"
-            android:text="Button"
-            android:backgroundTint="#13218E" />
+            android:backgroundTint="#13218E"
+            android:text="Voltar" />
 
     </LinearLayout>
 
