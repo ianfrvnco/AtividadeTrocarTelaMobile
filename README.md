@@ -59,10 +59,8 @@ A classe `MainActivity` controla toda a lógica do App:
 ## 🧰 Estrutura XML
 
 O layout principal (`activity_main.xml`) contém:
-- 3 botões (Pedra, Papel, Tesoura)
-- 1 `ImageView` (escolha do app)
-- 1 `TextView` (resultado)
-- 1 `TextView` opcional para placar
+- 1 `Button` para migração de telas 
+- 1 `TextView` para título
 
 Exemplo de uso do atributo `onClick`:
 ```xml
